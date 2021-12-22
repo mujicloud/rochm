@@ -1,0 +1,1 @@
+# This project is used for deployment on Okteto. Everyone is welcome to use and spread it. Of course, you can put forward your own modification opinions. This will allow me to improve my Linux knowledge and skills. I sincerely thank every friend who opens
